@@ -11,6 +11,10 @@ This project concentrates on counting the number of vehicles which are parked in
 2. Adaptive Thresholding.
 3. Dilation.
 
+## Research Papers Referred
+1. Automated Parking Detection System – IJIRT
+2. OpenCV Smart Parking Framework
+
 ## Input Given
 <img width="680" height="445" alt="before img" src="https://github.com/user-attachments/assets/335a360b-fc01-4049-9b67-ec9f081d11b8" />
 
